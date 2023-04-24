@@ -1,39 +1,25 @@
-# [Your Name]'s Web Developer Profile
-
-## Introduction
-Hello, I'm [Your Name], a web developer with [X] years of experience. I specialize in [front-end/back-end/full-stack] web development and have a strong proficiency in [list your programming languages, frameworks, libraries, and tools].
-
-## Skills
-- [List your programming languages, frameworks, libraries, and tools]
-- [List any other relevant skills]
+# Samuel Duhaime-Morissette | Web Developer 
 
 ## Projects
-### [Project Title]
-* Description: [Briefly describe the project, including technologies used, your role, and notable features]
-* GitHub Repository: [Link to the project's GitHub repository]
-* Live Demo: [Link to a live demo or deployed version]
+### Écolio - French Teaching Material Marketplace
 
-### [Project Title]
-* Description: [Briefly describe the project, including technologies used, your role, and notable features]
-* GitHub Repository: [Link to the project's GitHub repository]
-* Live Demo: [Link to a live demo or deployed version]
+**Description** 
 
-## Experience
-### [Company/Organization Name]
-* Role: [Your role/title]
-* Dates: [Dates of employment]
-* Description: [Describe your responsibilities, accomplishments, and contributions]
+Écolio is a vibrant French teaching material marketplace, empowering educators to easily download, share, buy, and sell educational resources. Our platform enables teachers to open their own shops, making teaching simple and efficient.
 
-## Education
-### [Degree/Certification]
-* Institution: [Name of the institution]
-* Year: [Year of completion]
+**Technologies**
 
-## Contact Information
-You can reach me at [your email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-url/).
+* Front-end: React.js, Next.js, JavaScript, TypeScript, SCSS
+* Back-end: Node.js, Express, MongoDB
+* API: Stripe, AWS, MailerLite
+* Libraries: Redux, Axios, Lexical, React-query, Passport, Playwright, Multer
+* Tools: Figma, Trello, GitHub
 
-## Additional Sections (Optional)
-You can include additional sections such as awards, achievements, volunteering, or interests that are relevant to your web developer profile.
+**Results**
+
+* 200+ active users
+* 30+ shops
+* 50+ products
 
 
 
