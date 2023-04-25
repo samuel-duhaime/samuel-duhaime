@@ -4,9 +4,11 @@
 
 I'm a self-taught programmer for over 2 years, I'm an entrepreneurial enthusiast who founded, Écolio, my own start-up to meet the needs I identified after working in the education sector.
 
-## Projects
+## 🚀 Projects
 
 ### Écolio | 👩‍🏫 Marketplace for Teachers
+
+<img src="assets/ecolio-trailer.gif" alt="Écolio Trailer" height="250px">
 
 [![Écolio Website](https://img.shields.io/static/v1?label=&message=Écolio%20Website&color=blue)](https://ecolio.ca)
 
@@ -18,13 +20,17 @@ I'm a self-taught programmer for over 2 years, I'm an entrepreneurial enthusiast
 
 ### SportsSavvy | 🏀 E-commerce for Sports Technologies - Team project
 
+<img src="assets/sportsSavvy-trailer.gif" alt="SportsSavvy Trailer" width="400px">
+
 [![SportsSavvy GitHub](https://img.shields.io/static/v1?label=&message=SportsSavvy%20GitHub&color=blue)](https://github.com/samuel-duhaime/sportssavvy)
 
 ### Critter | 🐦 Twitter Clone
 
+<img src="assets/critter-trailer.gif" alt="Critter Trailer" width="400px">
+
 [![Critter GitHub](https://img.shields.io/static/v1?label=&message=Critter%20GitHub&color=blue)](https://github.com/samuel-duhaime/critter)
 
-### Alien Shooter | 💻 Game with JavaScript
+### Alien Shooter | 🎮 Game with JavaScript
 
 <img src="assets/alien-shooter-trailer.gif" alt="Alien Shooter Trailer" width="400px">
 
@@ -57,8 +63,8 @@ I'm a self-taught programmer for over 2 years, I'm an entrepreneurial enthusiast
 
 ## 📈 GitHub Stats
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-duhaime&layout=compact&hide_border=true&theme=transparent&langs_count=3&hide=">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=samuel-duhaime&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs,prs,star&bg_color=00000000">
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-duhaime&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=3&hide=">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=samuel-duhaime&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs,prs,star&bg_color=00000000">
 
 ## 📫 Connect with me
 
