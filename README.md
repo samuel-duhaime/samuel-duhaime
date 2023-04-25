@@ -8,23 +8,27 @@ I'm a self-taught programmer for over 2 years, I'm an entrepreneurial enthusiast
 
 ### Écolio | 👩‍🏫 Marketplace for Teachers
 
-[![Écolio Website](https://img.shields.io/static/v1?label=&message=Écolio%20Website&color=red)](https://ecolio.ca)
+[![Écolio Website](https://img.shields.io/static/v1?label=&message=Écolio%20Website&color=blue)](https://ecolio.ca)
 
 ### Sketch | 🎨 Canva clone for Teachers
 
-[![Sketch GitHub](https://img.shields.io/static/v1?label=&message=Sketch%20GitHub&color=red)](https://github.com/samuel-duhaime/sketch)
+<img src="assets/sketch-trailer.gif" alt="Sketch Trailer" width="400px">
+
+[![Sketch GitHub](https://img.shields.io/static/v1?label=&message=Sketch%20GitHub&color=blue)](https://github.com/samuel-duhaime/sketch)
 
 ### SportsSavvy | 🏀 E-commerce for Sports Technologies - Team project
 
-[![SportsSavvy GitHub](https://img.shields.io/static/v1?label=&message=SportsSavvy%20GitHub&color=red)](https://github.com/samuel-duhaime/sportssavvy)
+[![SportsSavvy GitHub](https://img.shields.io/static/v1?label=&message=SportsSavvy%20GitHub&color=blue)](https://github.com/samuel-duhaime/sportssavvy)
 
 ### Critter | 🐦 Twitter Clone
 
-[![Critter GitHub](https://img.shields.io/static/v1?label=&message=Critter%20GitHub&color=red)](https://github.com/samuel-duhaime/critter)
+[![Critter GitHub](https://img.shields.io/static/v1?label=&message=Critter%20GitHub&color=blue)](https://github.com/samuel-duhaime/critter)
 
 ### Alien Shooter | 💻 Game with JavaScript
 
-[![Alien Shooter GitHub](https://img.shields.io/static/v1?label=&message=Alien%20Shooter%20GitHub&color=red)](https://github.com/samuel-duhaime/alien-shooter)
+<img src="assets/alien-shooter-trailer.gif" alt="Alien Shooter Trailer" width="400px">
+
+[![Alien Shooter GitHub](https://img.shields.io/static/v1?label=&message=Alien%20Shooter%20GitHub&color=blue)](https://github.com/samuel-duhaime/alien-shooter)
 
 ## 🔧 Techologies & Tools
 
@@ -51,14 +55,12 @@ I'm a self-taught programmer for over 2 years, I'm an entrepreneurial enthusiast
   ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=insomnia)
   ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 
-<!-- ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-- Most used Languages
-- GitHub Stats
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-duhaime&layout=compact&hide_border=true&theme=transparent&langs_count=3&hide=">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=samuel-duhaime&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs,prs,star&bg_color=00000000">
 
-[![Samuel Duhaime-Morissette GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=samuel-duhaime)] -->
+## 📫 Connect with me
 
-## 📞 Contact
-
-- sduhaimemorissette@gmail.com
-- linkedin.com/in/samuel-duhaime-morissette
+- [LinkedIn](https://linkedin.com/in/samuel-duhaime-morissette)
+- <sduhaimemorissette@gmail.com>
