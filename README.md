@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="assets/wave.gif" width="30px" height="30px" />
 
-I'm a self-taught programmer for over 2 years, I'm an entrepreneurial enthusiast who founded, Écolio, my own start-up to meet the needs I identified after working in the education sector.
+Self-taught programmer for over 2 years, I am an entrepreneurial enthusiast who founded my own start-up in the education section.
 
 ## 🚀 Projects
 
