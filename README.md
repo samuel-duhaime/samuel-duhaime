@@ -61,10 +61,10 @@ Self-taught programmer for over 2 years, I am an entrepreneurial enthusiast who 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-000?&logo=insomnia)
   ![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-duhaime&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=3&hide=">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=samuel-duhaime&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs,prs,star&bg_color=00000000">
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=samuel-duhaime&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs,prs,star&bg_color=00000000"> -->
 
 ## 📫 Connect with me
 
