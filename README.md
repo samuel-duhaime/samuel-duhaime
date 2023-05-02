@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="assets/wave.gif" width="30px" height="30px" />
 
-Self-taught programmer for over 2 years, I am an entrepreneurial enthusiast who founded my own start-up in the education section.
+I'm a self-taught programmer with a passion for building things. I've been at it for over 2 years now, and along the way I started my own startup in the education sector. Excited to share my projects with you here on GitHub!
 
 ## 🚀 Projects
 
