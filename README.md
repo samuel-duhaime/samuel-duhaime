@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="assets/wave.gif" width="30px" height="30px" />
 
-I'm a self-taught programmer with a passion for building things. I've been at it for over 2 years now, and along the way I started my own startup in the education sector. Excited to share my projects with you here on GitHub!
+I'm a self-taught Web Developer with a passion for building things. I've been at it for over 2 years now, and along the way I started my own startup in the education sector. Excited to share my projects with you here on GitHub!
 
 ## 🚀 Projects
 
