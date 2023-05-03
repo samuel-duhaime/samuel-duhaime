@@ -8,31 +8,31 @@ I'm a self-taught Web Developer with a passion for building things. I've been at
 
 ### Écolio | 👩‍🏫 Marketplace for Teachers
 
-<img src="assets/ecolio-trailer.gif" alt="Écolio Trailer" height="250px">
+<img src="assets/ecolio-trailer.gif" alt="Écolio Trailer" height="300px">
 
 [![Écolio Website](https://img.shields.io/static/v1?label=&message=Écolio%20Website&color=blue)](https://ecolio.ca)
 
 ### Sketch | 🎨 Canva clone for Teachers
 
-<img src="assets/sketch-trailer.gif" alt="Sketch Trailer" width="400px">
+<img src="assets/sketch-trailer.gif" alt="Sketch Trailer" width="500px">
 
 [![Sketch GitHub](https://img.shields.io/static/v1?label=&message=Sketch%20GitHub&color=blue)](https://github.com/samuel-duhaime/sketch)
 
 ### SportsSavvy | 🏀 E-commerce for Sports Technologies - Team project
 
-<img src="assets/sportsSavvy-trailer.gif" alt="SportsSavvy Trailer" width="400px">
+<img src="assets/sportsSavvy-trailer.gif" alt="SportsSavvy Trailer" width="500px">
 
 [![SportsSavvy GitHub](https://img.shields.io/static/v1?label=&message=SportsSavvy%20GitHub&color=blue)](https://github.com/samuel-duhaime/sportssavvy)
 
 ### Critter | 🐦 Twitter Clone
 
-<img src="assets/critter-trailer.gif" alt="Critter Trailer" width="400px">
+<img src="assets/critter-trailer.gif" alt="Critter Trailer" width="500px">
 
 [![Critter GitHub](https://img.shields.io/static/v1?label=&message=Critter%20GitHub&color=blue)](https://github.com/samuel-duhaime/critter)
 
 ### Alien Shooter | 🎮 Game with JavaScript
 
-<img src="assets/alien-shooter-trailer.gif" alt="Alien Shooter Trailer" width="400px">
+<img src="assets/alien-shooter-trailer.gif" alt="Alien Shooter Trailer" width="500px">
 
 [![Alien Shooter GitHub](https://img.shields.io/static/v1?label=&message=Alien%20Shooter%20GitHub&color=blue)](https://github.com/samuel-duhaime/alien-shooter)
 
