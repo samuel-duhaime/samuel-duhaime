@@ -30,7 +30,7 @@ I'm a self-taught Web Developer with a passion for building things. I've been at
 
 [![Critter GitHub](https://img.shields.io/static/v1?label=&message=Critter%20GitHub&color=blue)](https://github.com/samuel-duhaime/critter)
 
-### Alien Shooter | 🎮 Game with JavaScript
+### Alien Shooter | 🎮 Video Game with JavaScript
 
 <img src="assets/alien-shooter-trailer.gif" alt="Alien Shooter Trailer" width="500px">
 
