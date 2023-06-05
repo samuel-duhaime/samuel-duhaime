@@ -54,6 +54,7 @@ I'm a self-taught Web Developer with a passion for building things. I've been at
   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
   ![Amazon AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
 
 - Tools:
