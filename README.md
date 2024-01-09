@@ -41,6 +41,7 @@ I'm a self-taught Web Developer with a passion for building things. I've been at
 - Languages:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 
 - Frontend:
   ![React](https://img.shields.io/badge/-React-000?&logo=react)
@@ -54,6 +55,7 @@ I'm a self-taught Web Developer with a passion for building things. I've been at
   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-000?&logo=express)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgreSQL)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
   ![Amazon AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon-aws)
 
